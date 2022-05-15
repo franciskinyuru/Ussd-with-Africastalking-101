@@ -34,7 +34,7 @@ else if ($text == "1*2") {
 	$response= "END Your balance is ".$balance;
 }
 
-header('Content-type; text/plain');
+header('Content-type: text/plain');
 echo $response;
 
 
