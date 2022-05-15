@@ -65,6 +65,7 @@ echo $response;
 **You will be provided with the details to simulate the USSD.**
 
 **Then click Launch Simulator as below** 
+
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8w0wfnm3mmdbsu4696h8.png)
 
 **Input you test number and click connect as below**
@@ -72,9 +73,11 @@ echo $response;
  ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w1oy23mfiju10tnnhix2.png)
 
 **Go ahead and test the USSD code** 
+
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1mdog2xkukqybyhasmrt.png)
 
 **All done now you should have a display as below**
+
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1yuk31j8hob7u5qw4jee.png)
 
 **Code on github Francis Kinyuru[franciskinyuru](https://github.com/franciskinyuru/Ussd-with-Africastalking-101)**
